@@ -1,0 +1,6 @@
+123456789;Mohsen;Dupont;30;Homme;1
+987654321;Alice;Martin;25;Femme;1
+456789123;Jean;Durand;40;Homme;0
+112233445;Sophie;Lemoine;35;Femme;0
+667788990;Marc;Leclerc;28;Homme;1
+

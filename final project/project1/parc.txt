@@ -1,0 +1,2 @@
+15;Ariana ;06:00-12:00;3;3;Parking public;Non couvert;667788990
+777; Sousse;00:00-08:00;4;4;Parking public;Non couvert;987654321
